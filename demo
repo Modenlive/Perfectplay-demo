@@ -664,25 +664,25 @@ http://158.69.52.43:8000/live/elec/6070/1873.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="A+V" tvg-logo="http://1.bp.blogspot.com/-5b3OAEpJEpA/WdzJUN3yUuI/AAAAAAAAB94/lIwEbmcg5BAN_XIvzMWUEduTKdXUEUTGgCK4BGAYYCw/s1600/a%252Bv.jpg" group-title="URUGUAY",A+V
 http://158.69.52.43:8000/live/elec/6070/3204.m3u8
-#EXTINF:-1 tvg-id="Canal4.cr" tvg-name="CANAL 4 HD (URU)" tvg-logo="http://3.bp.blogspot.com/-nmhH6RYEez4/WdzJUX3HNVI/AAAAAAAAB6g/Lf4ldgMUuNAmIgkxHdmx3GBnQGVYK_OigCK4BGAYYCw/s1600/canal%2B4.jpg" group-title="Uruguay",CANAL 4 HD 
+#EXTINF:-1 tvg-id="Canal4.cr" tvg-name="CANAL 4 HD (URU)" tvg-logo="http://3.bp.blogspot.com/-nmhH6RYEez4/WdzJUX3HNVI/AAAAAAAAB6g/Lf4ldgMUuNAmIgkxHdmx3GBnQGVYK_OigCK4BGAYYCw/s1600/canal%2B4.jpg" group-title="URUGUAY",CANAL 4 HD 
 http://158.69.52.43:8000/live/elec/6070/413.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-XdCg6xh03qY/WdzJUQ8fmFI/AAAAAAAAB6M/vPwk7m5pQ8s1RI42KzgprpSvEDIcNbuAwCK4BGAYYCw/s1600/television%2Bnacional.jpg" group-title="Uruguay",CANAL 5 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-XdCg6xh03qY/WdzJUQ8fmFI/AAAAAAAAB6M/vPwk7m5pQ8s1RI42KzgprpSvEDIcNbuAwCK4BGAYYCw/s1600/television%2Bnacional.jpg" group-title="URUGUAY",CANAL 5 
 http://158.69.52.43:8000/live/elec/6070/1599.m3u8
-#EXTINF:-1 tvg-id="canal10uru" tvg-name="CANAL 10 (URU)" tvg-logo="http://3.bp.blogspot.com/-q9q9EjHUo3M/WdzJURAX4bI/AAAAAAAAB5Q/_EWgQ3a1-3oPoDzkGopP-CL8kJPK1AU-gCK4BGAYYCw/s1600/canal%2B10.jpg" group-title="Uruguay",CANAL 10 
+#EXTINF:-1 tvg-id="canal10uru" tvg-name="CANAL 10 (URU)" tvg-logo="http://3.bp.blogspot.com/-q9q9EjHUo3M/WdzJURAX4bI/AAAAAAAAB5Q/_EWgQ3a1-3oPoDzkGopP-CL8kJPK1AU-gCK4BGAYYCw/s1600/canal%2B10.jpg" group-title="URUGUAY",CANAL 10 
 http://158.69.52.43:8000/live/elec/6070/414.m3u8
-#EXTINF:-1 tvg-id="canal12uru" tvg-name="CANAL 12 (URU)" tvg-logo="http://3.bp.blogspot.com/-P3nIlGjOlD0/WdzKioS-gMI/AAAAAAAAB-U/r_9al-mPdB0yLoWMLw9Anr5Vb5O95wCQwCK4BGAYYCw/s1600/tele.jpg" group-title="Uruguay",CANAL 12 
+#EXTINF:-1 tvg-id="canal12uru" tvg-name="CANAL 12 (URU)" tvg-logo="http://3.bp.blogspot.com/-P3nIlGjOlD0/WdzKioS-gMI/AAAAAAAAB-U/r_9al-mPdB0yLoWMLw9Anr5Vb5O95wCQwCK4BGAYYCw/s1600/tele.jpg" group-title="URUGUAY",CANAL 12 
 http://api.new.livestream.com/accounts/13567583/events/6415731/live.m3u8
 #EXTINF:-1 tvg-id="tv ciudad" tvg-name="TV CIUDAD HD (URU)" tvg-logo="http://1.bp.blogspot.com/-G1olsDY4lgU/WdzJUfp5X8I/AAAAAAAAB8s/Iccig8umGYk90nnT2XKyMcctImiH4xoEACK4BGAYYCw/s1600/tv%2Bciudad.jpg" group-title="URUGUAY",TV CIUDAD HD (URU)
 http://158.69.52.43:8000/live/elec/6070/1601.m3u8
 #EXTINF:-1 tvg-id="vera plus" tvg-name="VERA PLUS HD (URU)" tvg-logo="http://4.bp.blogspot.com/-K9V0_Jr6l38/WdzJO8ASM0I/AAAAAAAAB30/2rgpLCcpRPwgHY6Gr-3ew79Q1QeZTmowgCK4BGAYYCw/s1600/vera%2Btv%2B%252B.jpg" group-title="URUGUAY",VERA PLUS HD (URU)
 http://158.69.52.43:8000/live/elec/6070/1600.m3u8
-#EXTINF:-1 tvg-id="charrua" tvg-name="CHARRUA TV (URU)" tvg-logo="" group-title="URUGUAY",CHARRUA TV (URU)
+#EXTINF:-1 tvg-id="charrua" tvg-name="CHARRUA TV (URU)" tvg-logo="http://3.bp.blogspot.com/-mdIIQMKQnRs/WdzJUT7zyAI/AAAAAAAAB48/CXbb2c9Ux1wWtKZz26w4_pPcfFj1xJeewCK4BGAYYCw/s1600/charruatv.jpg" group-title="URUGUAY",CHARRUA TV (URU)
 http://158.69.52.43:8000/live/elec/6070/2968.m3u8
-#EXTINF:-1 tvg-id="vtv" tvg-name="VTV SD (URU)" tvg-logo="http://4.bp.blogspot.com/-Pd2Aa9BMFo0/WdzJPNDFInI/AAAAAAAAB38/zBBYiNhXfvMD-sBvqTFYn1KWgn_vDPeowCK4BGAYYCw/s1600/vtv.jpg" group-title="Uruguay",VTV SD 
+#EXTINF:-1 tvg-id="vtv" tvg-name="VTV SD (URU)" tvg-logo="http://4.bp.blogspot.com/-Pd2Aa9BMFo0/WdzJPNDFInI/AAAAAAAAB38/zBBYiNhXfvMD-sBvqTFYn1KWgn_vDPeowCK4BGAYYCw/s1600/vtv.jpg" group-title="URUGUAY",VTV SD 
 http://158.69.52.43:8000/live/elec/6070/1450.m3u8
-#EXTINF:-1 tvg-id="vtvhd" tvg-name="VTV HD (URU)" tvg-logo="http://4.bp.blogspot.com/-Pd2Aa9BMFo0/WdzJPNDFInI/AAAAAAAAB38/zBBYiNhXfvMD-sBvqTFYn1KWgn_vDPeowCK4BGAYYCw/s1600/vtv.jpg" group-title="Uruguay",VTV HD 
+#EXTINF:-1 tvg-id="vtvhd" tvg-name="VTV HD (URU)" tvg-logo="http://4.bp.blogspot.com/-Pd2Aa9BMFo0/WdzJPNDFInI/AAAAAAAAB38/zBBYiNhXfvMD-sBvqTFYn1KWgn_vDPeowCK4BGAYYCw/s1600/vtv.jpg" group-title="URUGUAY",VTV HD 
 http://158.69.52.43:8000/live/elec/6070/493.m3u8
-#EXTINF:-1 tvg-id="vtvplus" tvg-name="VTV PLUS (URU)" tvg-logo="http://1.bp.blogspot.com/-_qW935egLeA/Wf4H5uQ2bdI/AAAAAAAACMs/Ta8uUqs0RD0GAKE4jNCSxd1nxl-JRCVtwCK4BGAYYCw/s1600/vtv%252B.jpg" group-title="Uruguay",VTV + 
+#EXTINF:-1 tvg-id="vtvplus" tvg-name="VTV PLUS (URU)" tvg-logo="http://1.bp.blogspot.com/-_qW935egLeA/Wf4H5uQ2bdI/AAAAAAAACMs/Ta8uUqs0RD0GAKE4jNCSxd1nxl-JRCVtwCK4BGAYYCw/s1600/vtv%252B.jpg" group-title="URUGUAY",VTV + 
 http://158.69.52.43:8000/live/elec/6070/494.m3u8
 
 
