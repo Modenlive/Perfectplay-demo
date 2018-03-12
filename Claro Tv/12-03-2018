@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s26.postimg.org/tvgo17yx5/claro3-e1406908342698.jpg",[COLOR blue]#  [/COLOR]AE MUNDO HD
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/tvgo17yx5/claro3-e1406908342698.jpg",[COLOR blue]#  [/COLOR]AE MUNDO
 http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(AE_MUNDO_HD)/index.m3u8
-#EXTINF:-1 tvg-logo="https://s26.postimg.org/tvgo17yx5/claro3-e1406908342698.jpg",[COLOR blue]#  [/COLOR]Animal Planet
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/tvgo17yx5/claro3-e1406908342698.jpg",[COLOR blue]#  [/COLOR]ANIMAL PLANET
 http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(ANIMAL_PLANET_HD)/index.m3u8
-#EXTINF:-1 tvg-logo="https://s26.postimg.org/tvgo17yx5/claro3-e1406908342698.jpg",[COLOR blue]#  [/COLOR]ANTENA3
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/tvgo17yx5/claro3-e1406908342698.jpg",[COLOR blue]#  [/COLOR]ANTENA 3
 http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(ANTENA3)/index.m3u8
 #EXTINF:-1 tvg-logo="https://s26.postimg.org/tvgo17yx5/claro3-e1406908342698.jpg",[COLOR blue]#  [/COLOR]AXN HD
 http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(AXN_HD)/index.m3u8
@@ -80,11 +80,7 @@ http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(STUDIO_UNIVERS
 http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(SONY_HD)/index.m3u8
 #EXTINF:-1 tvg-logo="https://s26.postimg.org/tvgo17yx5/claro3-e1406908342698.jpg",[COLOR blue]#  [/COLOR]NATGEO HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NATGEO_HD)/index.m3u8
-#EXTINF:-1 tvg-logo="https://s26.postimg.org/tvgo17yx5/claro3-e1406908342698.jpg",[COLOR blue]#  [/COLOR]HBO PLUS
-http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(HBO_PLUS_HD)/index.m3u8
-#EXTINF:-1 tvg-logo="https://s26.postimg.org/tvgo17yx5/claro3-e1406908342698.jpg",[COLOR blue]#  [/COLOR]HBO family
-http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(HBO_FAMILY_HD)/index.m3u8
-#EXTINF:-1 tvg-logo="https://s26.postimg.org/tvgo17yx5/claro3-e1406908342698.jpg",[COLOR blue]#  [/COLOR]ISAT
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/tvgo17yx5/claro3-e1406908342698.jpg",[COLOR blue]#  [/COLOR]I SAT
 http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(ISAT)/index.m3u8
 #EXTINF:-1 tvg-logo="https://s26.postimg.org/tvgo17yx5/claro3-e1406908342698.jpg",[COLOR blue]#  [/COLOR]PARAMOUNT_HD
 http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(PARAMOUNT_HD)/index.m3u8
@@ -94,14 +90,16 @@ http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(HISTORY_CHANNE
 http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(HISTORY_CHANNEL_HD)/index.m3u8
 #EXTINF:-1 tvg-logo="https://s26.postimg.org/tvgo17yx5/claro3-e1406908342698.jpg",[COLOR blue]#  [/COLOR]H2
 http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(H2)/index.m3u8
-#EXTINF:-1 tvg-logo="https://s26.postimg.org/tvgo17yx5/claro3-e1406908342698.jpg",[COLOR blue]#  [/COLOR]HBO HD
-http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(HBO_HD)/index.m3u8
 #EXTINF:-1 tvg-logo="https://s26.postimg.org/tvgo17yx5/claro3-e1406908342698.jpg",[COLOR blue]#  [/COLOR]HBO
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(HBO_HD)/index.m3u8
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/tvgo17yx5/claro3-e1406908342698.jpg",[COLOR blue]#  [/COLOR]HBO HD
 http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(HBO_HD)/index.m3u8
 #EXTINF:-1 tvg-logo="https://s26.postimg.org/tvgo17yx5/claro3-e1406908342698.jpg",[COLOR blue]#  [/COLOR]HBO FAMILY HD
 http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(HBO_FAMILY_HD)/index.m3u8
 #EXTINF:-1 tvg-logo="https://s26.postimg.org/tvgo17yx5/claro3-e1406908342698.jpg",[COLOR blue]#  [/COLOR]HBO SIGNATURE HD
 http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(HBO_SIGNATURE_HD)/index.m3u8
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/tvgo17yx5/claro3-e1406908342698.jpg",[COLOR blue]#  [/COLOR]HBO PLUS
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(HBO_PLUS_HD)/index.m3u8
 #EXTINF:-1 tvg-logo="https://s26.postimg.org/tvgo17yx5/claro3-e1406908342698.jpg",[COLOR blue]#  [/COLOR]MAX
 http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(MAX)/index.m3u8
 #EXTINF:-1 tvg-logo="https://s26.postimg.org/tvgo17yx5/claro3-e1406908342698.jpg",[COLOR blue]#  [/COLOR]MAX PRIME HD
@@ -110,14 +108,12 @@ http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(MAX_PRIME_HD)/
 http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(NATGEO_HD)/index.m3u8
 #EXTINF:-1 tvg-logo="https://s26.postimg.org/tvgo17yx5/claro3-e1406908342698.jpg",[COLOR blue]#  [/COLOR]MTV HD
 http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(MTV_HD)/index.m3u8
-#EXTINF:-1 tvg-logo="https://s26.postimg.org/tvgo17yx5/claro3-e1406908342698.jpg",[COLOR blue]#  [/COLOR]MTV HD
-http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(MTV_HD)/index.m3u8
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/tvgo17yx5/claro3-e1406908342698.jpg",[COLOR blue]#  [/COLOR]MTV HITS
+http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(MTV_HITS)/index.m3u8
 #EXTINF:-1 tvg-logo="https://s26.postimg.org/tvgo17yx5/claro3-e1406908342698.jpg",[COLOR blue]#  [/COLOR]VH1
 http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(VH1)/index.m3u8
 #EXTINF:-1 tvg-logo="https://s26.postimg.org/tvgo17yx5/claro3-e1406908342698.jpg",[COLOR blue]#  [/COLOR]VH1 CLASSIC
 http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(VH1_CLASSIC)/index.m3u8
-#EXTINF:-1 tvg-logo="https://s26.postimg.org/tvgo17yx5/claro3-e1406908342698.jpg",[COLOR blue]#  [/COLOR]MTV HITS
-http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(MTV_HITS)/index.m3u8
 #EXTINF:-1 tvg-logo="https://s26.postimg.org/tvgo17yx5/claro3-e1406908342698.jpg",[COLOR blue]#  [/COLOR]RCN TELENOVELAS
 http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(RCN_TELENOVELAS)/index.m3u8
 #EXTINF:-1 tvg-logo="https://s26.postimg.org/tvgo17yx5/claro3-e1406908342698.jpg",[COLOR blue]#  [/COLOR]RAI
@@ -162,4 +158,3 @@ http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(UNICABLE)/inde
 http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(VEPLUSTV)/index.m3u8
 #EXTINF:-1 tvg-logo="https://s26.postimg.org/tvgo17yx5/claro3-e1406908342698.jpg",[COLOR blue]#  [/COLOR]WARNER HD
 http://latamliveclarovideo.akamaized.net/Content/hls/Live/Channel(WARNER_HD)/index.m3u8
-
