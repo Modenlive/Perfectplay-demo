@@ -1,0 +1,71 @@
+#EXTM3U 
+#EXTVLCOPT:http-user-agent=Chrome
+
+#EXTINF:-1 tvg-logo="https://s17.postimg.org/5bh94gszz/image.jpg" group-title="TV MEXICO",[COLOR blue]#  [/COLOR]Canal 5
+http://tvpremiumhd.club/lista-gratuita/touch/canal5.m3u8
+#EXTINF:-1 tvg-name="Azteca 7" tvg-logo="https://i.imgur.com/7WTzXck.png" group-title="TV MEXICO",[COLOR blue]#  [/COLOR]Azteca 7 HQ
+http://tvpremiumhd.club/lista-gratuita/touch/az7.m3u8
+#EXTINF:-1 tvg-logo="https://s17.postimg.org/5bh94gszz/image.jpg" group-title="CINE PREMIUM",[COLOR blue]#  [/COLOR]TNT FHD
+http://tvpremiumhd.club/lista-gratuita/touch/s52.ts
+#EXTINF:-1 tvg-logo="https://s17.postimg.org/5bh94gszz/image.jpg" group-title="ENTRETENIMIENTO",[COLOR blue]#  [/COLOR]TRU TV HD
+http://tvpremiumhd.club/lista-gratuita/touch/s202.ts
+#EXTINF:-1 tvg-logo="https://s17.postimg.org/5bh94gszz/image.jpg" group-title="ENTRETENIMIENTO",[COLOR blue]#  [/COLOR]Investigation Discovery HQ
+http://tvpremiumhd.club/lista-gratuita/touch/s215.ts
+#EXTINF:-1 tvg-logo="https://s17.postimg.org/5bh94gszz/image.jpg" group-title="CINE PREMIUM",[COLOR blue]#  [/COLOR]TCM LATINO HQ
+http://tvpremiumhd.club/lista-gratuita/touch/s245.ts
+#EXTINF:-1 tvg-name="WOW TV" tvg-logo="https://s17.postimg.org/5bh94gszz/image.jpg" group-title="ENTRETENIMIENTO",[COLOR blue]#  [/COLOR]WOW TV
+http://tvpremiumhd.club/lista-gratuita/touch/wowtv.m3u8
+#EXTINF:-1 tvg-logo="https://s17.postimg.org/5bh94gszz/image.jpg" group-title="CINE PREMIUM",[COLOR blue]#  [/COLOR]Cinema Plus HQ
+http://tvpremiumhd.club/lista-gratuita/touch/s241.ts
+#EXTINF:-1 tvg-logo="https://s17.postimg.org/5bh94gszz/image.jpg" group-title="ENTRETENIMIENTO",[COLOR blue]#  [/COLOR]City Noticias HQ
+http://tvpremiumhd.club/lista-gratuita/touch/s226.ts
+#EXTINF:-1 tvg-logo="https://s17.postimg.org/5bh94gszz/image.jpg" group-title="ENTRETENIMIENTO",[COLOR blue]#  [/COLOR]CLARO FHD
+http://tvpremiumhd.club/lista-gratuita/touch/s195.ts
+#EXTINF:-1 tvg-logo="https://s17.postimg.org/5bh94gszz/image.jpg" group-title="ENTRETENIMIENTO",[COLOR blue]#  [/COLOR]FX HQ
+http://tvpremiumhd.club/lista-gratuita/touch/s232.ts
+#EXTINF:-1 tvg-logo="https://s17.postimg.org/5bh94gszz/image.jpg" group-title="CINE PREMIUM",[COLOR blue]#  [/COLOR]De Pelicula HQ
+http://tvpremiumhd.club/lista-gratuita/touch/s238.ts
+#EXTINF:-1 tvg-logo="https://s17.postimg.org/5bh94gszz/image.jpg" group-title="ENTRETENIMIENTO",[COLOR blue]#  [/COLOR]Glitz HQ
+http://tvpremiumhd.club/lista-gratuita/touch/s235.ts
+#EXTINF:-1 tvg-logo="https://s17.postimg.org/5bh94gszz/image.jpg" group-title="CINE PREMIUM",[COLOR blue]#  [/COLOR]Golden Plus HD
+http://tvpremiumhd.club/lista-gratuita/touch/s211.ts
+#EXTINF:-1 tvg-logo="https://s17.postimg.org/5bh94gszz/image.jpg" group-title="ENTRETENIMIENTO",[COLOR blue]#  [/COLOR]GOLF LATIN AMERICA FHD
+http://tvpremiumhd.club/lista-gratuita/touch/s209.ts
+#EXTINF:-1 tvg-logo="https://s17.postimg.org/5bh94gszz/image.jpg" group-title="INFANTIL",[COLOR blue]#  [/COLOR]Nick 2 FHD
+http://tvpremiumhd.club/lista-gratuita/touch/s212.ts
+#EXTINF:-1 tvg-logo="https://s17.postimg.org/5bh94gszz/image.jpg" group-title="ENTRETENIMIENTO",[COLOR blue]#  [/COLOR]MP HQ
+http://tvpremiumhd.club/lista-gratuita/touch/s239.ts
+#EXTINF:-1 tvg-logo="https://s17.postimg.org/5bh94gszz/image.jpg" group-title="MUSICA",[COLOR blue]#  [/COLOR]RED FHD
+http://tvpremiumhd.club/lista-gratuita/touch/s199.ts
+#EXTINF:-1 tvg-logo="https://s17.postimg.org/5bh94gszz/image.jpg" group-title="ENTRETENIMIENTO",[COLOR blue]#  [/COLOR]DISCOVERY TLC HQ
+http://tvpremiumhd.club/lista-gratuita/touch/s234.ts
+#EXTINF:-1 tvg-logo="https://s17.postimg.org/5bh94gszz/image.jpg" group-title="ENTRETENIMIENTO",[COLOR blue]#  [/COLOR]ISat HQ
+http://tvpremiumhd.club/lista-gratuita/touch/s240.ts
+#EXTINF:-1 tvg-logo="https://s17.postimg.org/5bh94gszz/image.jpg" group-title="DEPORTES",[COLOR blue]#  [/COLOR]Claro Sport HQ
+http://tvpremiumhd.club/lista-gratuita/touch/s204.ts
+#EXTINF:-1 tvg-logo="https://s17.postimg.org/5bh94gszz/image.jpg" group-title="DEPORTES",[COLOR blue]#  [/COLOR]ESPN HD
+http://tvpremiumhd.club/lista-gratuita/touch/s217.ts
+#EXTINF:-1 tvg-logo="https://s17.postimg.org/5bh94gszz/image.jpg" group-title="DEPORTES",[COLOR blue]#  [/COLOR]ESPN 3 FHD
+http://tvpremiumhd.club/lista-gratuita/touch/s216.ts
+#EXTINF:-1 tvg-logo="https://s17.postimg.org/5bh94gszz/image.jpg" group-title="DEPORTES",[COLOR blue]#  [/COLOR]Fox Sports FHD
+http://tvpremiumhd.club/lista-gratuita/touch/s205.ts
+#EXTINF:-1 tvg-logo="https://s17.postimg.org/5bh94gszz/image.jpg" group-title="DEPORTES",[COLOR blue]#  [/COLOR]Fox Sport 2 HQ
+http://tvpremiumhd.club/lista-gratuita/touch/s207.ts
+#EXTINF:-1 tvg-logo="https://s17.postimg.org/5bh94gszz/image.jpg" group-title="DEPORTES",[COLOR blue]#  [/COLOR]Fox Sports 3 
+http://tvpremiumhd.club/lista-gratuita/touch/s206.ts
+#EXTINF:-1 tvg-logo="https://s17.postimg.org/5bh94gszz/image.jpg" group-title="DEPORTES",[COLOR blue]#  [/COLOR]WIN SPORTS HD
+http://tvpremiumhd.club/lista-gratuita/touch/s200.ts
+#EXTINF:-1 tvg-name="CNN HD" tvg-logo="https://s17.postimg.org/5bh94gszz/image.jpg" group-title="ENTRETENIMIENTO",[COLOR blue]#  [/COLOR]CNN HD
+http://tvpremiumhd.club/lista-gratuita/touch/cnn.m3u8
+#EXTINF:-1 tvg-name="CDO HD" tvg-logo="https://i.imgur.com/7xLQmme.jpg" group-title="DEPORTES",[COLOR blue]#  [/COLOR]CDO HD
+http://tvpremiumhd.club/lista-gratuita/touch/cdo.ts
+#EXTINF:-1 tvg-name="Todo Deportes" tvg-logo="https://i.imgur.com/hlBki6S.png" group-title="DEPORTES",[COLOR blue]#  [/COLOR]Todo Deportes HQ
+http://tvpremiumhd.club/lista-gratuita/touch/tododep.ts
+#EXTINF:-1 tvg-name="Todo Deportes" tvg-logo="https://s17.postimg.org/5bh94gszz/image.jpg" group-title="DEPORTES",[COLOR blue]#  [/COLOR]Todo Deportes HD
+http://tvpremiumhd.club/lista-gratuita/touch/tododeportesx.m3u8
+#EXTINF:-1 tvg-name="MBL" group-title="DEPORTES",[COLOR blue]#  [/COLOR]MBL HQ
+http://tvpremiumhd.club/lista-gratuita/touch/mbl.m3u8
+#EXTINF:-1 tvg-name="Miami TV HD" tvg-logo="https://i.imgur.com/wmL28an.jpg" group-title="ENTRETENIMIENTO",[COLOR blue]#  [/COLOR]Miami TV HD
+http://tvpremiumhd.club/lista-gratuita/touch/miamitvusa.m3u8
+#EXTINF:-1 tvg-name="Miami TV España" tvg-logo="https://i.imgur.com/wmL28an.jpg" group-title="ENTRETENIMIENTO",[COLOR blue]#  [/COLOR]Miami TV España
+http://tvpremiumhd.club/lista-gratuita/touch/miamitves.m3u8
