@@ -5,72 +5,6 @@
 <fanart>https://linuxzonedottv.files.wordpress.com/2016/10/1467251422161.jpg?w=600</fanart>
 </item>
 
-<item>
-<title>[COLOR blue]#  [/COLOR]Club Tv</title>
-<link>NA</link>
-<externallink>https://raw.githubusercontent.com/Modenlive/Perfectplay-demo/master/Cecegeek%20tv</externallink>https://tvpremiumhd.club/tv.m3u
-<thumbnail>https://goo.gl/yZhfFG</thumbnail>
-<fanart>https://linuxzonedottv.files.wordpress.com/2016/10/1467251422161.jpg?w=600</fanart>
-</item>
-
-<item>
-<title>[COLOR blue]#  [/COLOR]Ragnarok Tv</title>
-<link>NA</link>
-<externallink>http://ragnaroktv.com/tv/lista.m3u</externallink>
-<thumbnail>https://goo.gl/yZhfFG</thumbnail>
-<fanart>https://linuxzonedottv.files.wordpress.com/2016/10/1467251422161.jpg?w=600</fanart>
-</item>
-
-<item>
-<title>[COLOR blue]#  [/COLOR]Sr Regio Tv</title>
-<link>NA</link>
-<externallink>http://srregio.xyz/IPTV/regiotv.m3u</externallink>
-<thumbnail>https://goo.gl/yZhfFG</thumbnail>
-<fanart>https://linuxzonedottv.files.wordpress.com/2016/10/1467251422161.jpg?w=600</fanart>
-</item>
-
-<item>
-<title>[COLOR blue]#  [/COLOR]Tecno Tv</title>
-<link>NA</link>
-<externallink>http://tecnotv.xyz/lista.m3u</externallink>
-<thumbnail>https://goo.gl/yZhfFG</thumbnail>
-<fanart>https://linuxzonedottv.files.wordpress.com/2016/10/1467251422161.jpg?w=600</fanart>
-</item>
-
---------------------------------
-
-<item>
-<title>[COLOR blue]#  [/COLOR][COLOR deepskyblue]Sports [/COLOR]</title>
- 
-<link>$doregex[leg]</link>
-<regex>
-<name>leg</name>
-<listrepeat><![CDATA[
-<title>[COLOR blue]#  [/COLOR][COLOR lightslategray][leg.param2][/COLOR]</title>
-<link>$doregex[list]</link>
-<thumbnail>https://goo.gl/yZhfFG</thumbnail>
-<fanart>https://linuxzonedottv.files.wordpress.com/2016/10/1467251422161.jpg?w=600</fanart>
-]]></listrepeat>
-<expres><![CDATA[(?s)<h2 class="post-title".+?href="https(.+?)">(.+?)</a>]]></expres>
-<page>https://www.dailyiptvlist.com/sports/</page>
-</regex>
-<regex>
-<name>list</name>
-<listrepeat><![CDATA[
-<title>[COLOR blue]#  [/COLOR][COLOR lightslategray][list.param2][/COLOR]</title>
-<link>NA</link>
-<thumbnail>https://goo.gl/yZhfFG</thumbnail>
-<fanart>https://linuxzonedottv.files.wordpress.com/2016/10/1467251422161.jpg?w=600</fanart>
-<externallink>[list.param1]$$TSDOWNLOADER$$</externallink>
-]]></listrepeat>
-<expres><![CDATA[<a href="(.*?)">Download IpTV(.*?)</a>]]></expres>
-<page>http[leg.param1]</page>
-</regex>
-
-<thumbnail>https://goo.gl/yZhfFG</thumbnail>
-<fanart>https://linuxzonedottv.files.wordpress.com/2016/10/1467251422161.jpg?w=600</fanart>
-</item>
-
 ----------------------------------
 
 <item>
@@ -110,10 +44,12 @@
 <thumbnail>https://goo.gl/yZhfFG</thumbnail>
 <fanart>https://linuxzonedottv.files.wordpress.com/2016/10/1467251422161.jpg?w=600</fanart>
 <link>$doregex[makelist]</link>
+<thumbnail>https://goo.gl/yZhfFG</thumbnail>
+<fanart>https://www.ivacy.com/blog/wp-content/uploads/2017/07/Best-Kodi-IPTV-addons-1.jpg</fanart>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<title>[COLOR blue]#  [/COLOR][COLOR lightslategray]Listado m3u[/COLOR] [COLOR lime][makelist.param1][/COLOR]</title>
+<title>[COLOR blue]#  [/COLOR]Listado m3u [COLOR lime][makelist.param1][/COLOR]</title>
 <thumbnail>https://goo.gl/yZhfFG</thumbnail>
 <fanart>https://linuxzonedottv.files.wordpress.com/2016/10/1467251422161.jpg?w=600</fanart>
 <link>NA</link>
@@ -127,3 +63,72 @@
 <thumbnail>https://goo.gl/yZhfFG</thumbnail>
 <fanart>https://linuxzonedottv.files.wordpress.com/2016/10/1467251422161.jpg?w=600</fanart>
 </item>
+
+---------------------
+
+<item>
+<title>[COLOR blue]#  [/COLOR]Club Tv</title>
+<link>NA</link>
+<externallink>https://raw.githubusercontent.com/Modenlive/Perfectplay-demo/master/Cecegeek%20tv</externallink>https://tvpremiumhd.club/tv.m3u
+<thumbnail>https://goo.gl/yZhfFG</thumbnail>
+<fanart>https://linuxzonedottv.files.wordpress.com/2016/10/1467251422161.jpg?w=600</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [/COLOR]Ragnarok Tv</title>
+<link>NA</link>
+<externallink>http://ragnaroktv.com/tv/lista.m3u</externallink>
+<thumbnail>https://goo.gl/yZhfFG</thumbnail>
+<fanart>https://linuxzonedottv.files.wordpress.com/2016/10/1467251422161.jpg?w=600</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [/COLOR]Sr Regio Tv</title>
+<link>NA</link>
+<externallink>http://srregio.xyz/IPTV/regiotv.m3u</externallink>
+<thumbnail>https://goo.gl/yZhfFG</thumbnail>
+<fanart>https://linuxzonedottv.files.wordpress.com/2016/10/1467251422161.jpg?w=600</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [/COLOR]Tecno Tv</title>
+<link>NA</link>
+<externallink>http://tecnotv.xyz/lista.m3u</externallink>
+<thumbnail>https://goo.gl/yZhfFG</thumbnail>
+<fanart>https://linuxzonedottv.files.wordpress.com/2016/10/1467251422161.jpg?w=600</fanart>
+</item>
+
+--------------------------------
+
+<item>
+<title>[COLOR blue]#  [/COLOR]Sports</title>
+ 
+<link>$doregex[leg]</link>
+<regex>
+<name>leg</name>
+<listrepeat><![CDATA[
+<title>[COLOR blue]#  [/COLOR][leg.param2]</title>
+<link>$doregex[list]</link>
+<thumbnail>https://goo.gl/yZhfFG</thumbnail>
+<fanart>https://linuxzonedottv.files.wordpress.com/2016/10/1467251422161.jpg?w=600</fanart>
+]]></listrepeat>
+<expres><![CDATA[(?s)<h2 class="post-title".+?href="https(.+?)">(.+?)</a>]]></expres>
+<page>https://www.dailyiptvlist.com/sports/</page>
+</regex>
+<regex>
+<name>list</name>
+<listrepeat><![CDATA[
+<title>[COLOR blue]#  [/COLOR][list.param2]</title>
+<link>NA</link>
+<thumbnail>https://goo.gl/yZhfFG</thumbnail>
+<fanart>https://linuxzonedottv.files.wordpress.com/2016/10/1467251422161.jpg?w=600</fanart>
+<externallink>[list.param1]$$TSDOWNLOADER$$</externallink>
+]]></listrepeat>
+<expres><![CDATA[<a href="(.*?)">Download IpTV(.*?)</a>]]></expres>
+<page>http[leg.param1]</page>
+</regex>
+
+<thumbnail>https://goo.gl/yZhfFG</thumbnail>
+<fanart>https://linuxzonedottv.files.wordpress.com/2016/10/1467251422161.jpg?w=600</fanart>
+</item>
+
