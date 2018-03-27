@@ -53,12 +53,12 @@
 <thumbnail>https://goo.gl/yZhfFG</thumbnail>
 <fanart>https://linuxzonedottv.files.wordpress.com/2016/10/1467251422161.jpg?w=600</fanart>
 <link>NA</link>
-<externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
+<thumbnail>https://goo.gl/yZhfFG</thumbnail>
+<fanart>https://www.ivacy.com/blog/wp-content/uploads/2017/07/Best-Kodi-IPTV-addons-1.jpg</fanart>
+<externallink>[COLOR blue]#  [/COLOR][makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
 ]]></listrepeat>
 <expres>>(http:\/\/(.*?)\/.*?get.php.*?)&lt;</expres>
 <page>http://www.m3uliste.pw/</page>
-<thumbnail>https://goo.gl/yZhfFG</thumbnail>
-<fanart>https://www.ivacy.com/blog/wp-content/uploads/2017/07/Best-Kodi-IPTV-addons-1.jpg</fanart>
 <referer></referer>
 <cookieJar></cookieJar>
 </regex>
