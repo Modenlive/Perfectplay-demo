@@ -69,21 +69,13 @@
 <item>
 <title>[COLOR blue]#  [/COLOR]Club Tv</title>
 <link>NA</link>
-<externallink>https://raw.githubusercontent.com/Modenlive/Perfectplay-demo/master/Cecegeek%20tv</externallink>https://tvpremiumhd.club/tv.m3u
+<externallink>https://tvpremiumhd.club/tv.m3u</externallink>
 <thumbnail>https://goo.gl/yZhfFG</thumbnail>
 <fanart>https://linuxzonedottv.files.wordpress.com/2016/10/1467251422161.jpg?w=600</fanart>
 </item>
 
 <item>
-<title>[COLOR blue]#  [/COLOR]Uru Tv</title>
-<link>NA</link>
-<externallink>https://pastebin.com/raw/wGsQU17n</externallink>https://tvpremiumhd.club/tv.m3u
-<thumbnail>https://goo.gl/yZhfFG</thumbnail>
-<fanart>https://linuxzonedottv.files.wordpress.com/2016/10/1467251422161.jpg?w=600</fanart>
-</item>
-
-<item>
-<title>[COLOR blue]#  [/COLOR]Ragnarok Tv</title>
+<title>[COLOR blue]#  [/COLOR]Ragnarok</title>
 <link>NA</link>
 <externallink>http://ragnaroktv.com/tv/lista.m3u</externallink>
 <thumbnail>https://goo.gl/yZhfFG</thumbnail>
@@ -91,17 +83,25 @@
 </item>
 
 <item>
-<title>[COLOR blue]#  [/COLOR]Sr Regio Tv</title>
+<title>[COLOR blue]#  [/COLOR]UruTv</title>
 <link>NA</link>
-<externallink>http://srregio.xyz/IPTV/regiotv.m3u</externallink>
+<externallink>https://pastebin.com/raw/wGsQU17n</externallink>https://tvpremiumhd.club/tv.m3u
 <thumbnail>https://goo.gl/yZhfFG</thumbnail>
 <fanart>https://linuxzonedottv.files.wordpress.com/2016/10/1467251422161.jpg?w=600</fanart>
 </item>
 
 <item>
-<title>[COLOR blue]#  [/COLOR]Tecno Tv</title>
+<title>[COLOR blue]#  [/COLOR]TecnoTv</title>
 <link>NA</link>
 <externallink>http://tecnotv.xyz/lista.m3u</externallink>
+<thumbnail>https://goo.gl/yZhfFG</thumbnail>
+<fanart>https://linuxzonedottv.files.wordpress.com/2016/10/1467251422161.jpg?w=600</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]#  [/COLOR]Sr Regio</title>
+<link>NA</link>
+<externallink>http://srregio.xyz/IPTV/regiotv.m3u</externallink>
 <thumbnail>https://goo.gl/yZhfFG</thumbnail>
 <fanart>https://linuxzonedottv.files.wordpress.com/2016/10/1467251422161.jpg?w=600</fanart>
 </item>
