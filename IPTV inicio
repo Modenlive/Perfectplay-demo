@@ -13,7 +13,7 @@
 <regex>
 <name>makelist2</name>
 <listrepeat><![CDATA[
-<title>[COLOR blue]#  [/COLOR][COLOR deepskyblue]IPTV[/COLOR][COLOR white] [makelist2.param1][/COLOR]</title>
+<title>[COLOR blue]#  [/COLOR][COLOR red]XTREAM[/COLOR][COLOR white]  [makelist2.param1][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <thumbnail>https://goo.gl/yZhfFG</thumbnail>
 <fanart>https://www.ivacy.com/blog/wp-content/uploads/2017/07/Best-Kodi-IPTV-addons-1.jpg</fanart>
@@ -67,6 +67,14 @@
 ---------------------
 
 <item>
+<title>[COLOR blue]#  [/COLOR]Premier Movistar</title>
+<link>NA</link>
+<externallink>https://raw.githubusercontent.com/Modenlive/Perfectplay-demo/master/Magentalo</externallink>
+<thumbnail>https://goo.gl/yZhfFG</thumbnail>
+<fanart>https://linuxzonedottv.files.wordpress.com/2016/10/1467251422161.jpg?w=600</fanart>
+</item>
+
+<item>
 <title>[COLOR blue]#  [/COLOR]Club Tv</title>
 <link>NA</link>
 <externallink>https://tvpremiumhd.club/tv.m3u</externallink>
@@ -83,7 +91,7 @@
 </item>
 
 <item>
-<title>[COLOR blue]#  [/COLOR]UruTv</title>
+<title>[COLOR blue]#  [/COLOR]UruguayiTv</title>
 <link>NA</link>
 <externallink>https://pastebin.com/raw/wGsQU17n</externallink>https://tvpremiumhd.club/tv.m3u
 <thumbnail>https://goo.gl/yZhfFG</thumbnail>
