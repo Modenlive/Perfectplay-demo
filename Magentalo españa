@@ -1,5 +1,3 @@
-http://pastebin.com/raw/LAPDwYV3
-
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item><title>[COLOR blue]#  [COLOR]#0[/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=$doregex[get-urlencoded]&amp;streamtype=TSDOWNLOADER&amp;name=#0&amp;iconImage=https://www.comparaiso.es/images/cero-logo3-300.jpg</link>
