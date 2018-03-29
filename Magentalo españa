@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+
 <item><title>[COLOR blue]#  [COLOR]#0[/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=$doregex[get-urlencoded]&amp;streamtype=TSDOWNLOADER&amp;name=#0&amp;iconImage=https://www.comparaiso.es/images/cero-logo3-300.jpg</link>
 <regex><name>get-urlencoded</name><expres>$pyFunction:urllib.quote_plus('http://37.187.128.169:8000/live/noadl/lksdjfajsdfad444te/1.ts|User-Agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git')<expres><page></page></regex>
 <thumbnail>https://www.comparaiso.es/images/cero-logo3-300.jpg</thumbnail><fanart>http://i.imgur.com/bcpZZ1S.png</fanart></item>
