@@ -1,31 +1,20 @@
 #EXTM3U
  
- 
-
-#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]beIN España
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/574/index.m3u8
-#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]Liga Tv
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
 #EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]beIN La Liga HD
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/574/index.m3u8
 #EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]beIN LaLiga Op 1
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/574/index.m3u8
 #EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]beIN LaLiga Op 2
 http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/574/index.m3u8
-#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]LaLiga
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
 #EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]beIN Sports Op 1
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/566/index.m3u8
 #EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]beIN Sports Op 2
 http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/566/index.m3u8
 #EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]beIN Sports Op 3
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/566/index.m3u8
-#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]beIN Sport HD
-http://playlist.onlybest.tv/en/channel/5dda7fe337281595bf436bc8592891be/566/index.m3u8
-#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]beIN LaLiga HD
-http://playlist.onlybest.tv/en/channel/5dda7fe337281595bf436bc8592891be/574/index.m3u8
-#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]LaLiga HD
-http://playlist.onlybest.tv/en/channel/5dda7fe337281595bf436bc8592891be/581/index.m3u8
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]LaLiga
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]FOX Sports
 http://23.237.22.7/stream.get/fox_sports_arg.ts
@@ -43,8 +32,6 @@ http://23.237.22.7/stream.get/winsports_hd.ts
 https://564e2be0304b6.streamlock.net/DXTV/smil:DXTV/chunklist_w579935025_b542000_slesp.m3u8
 #EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]Todo Deportes
 http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]CDN Sportmax
-http://api.new.livestream.com/accounts/15754920/events/5198653/live.m3u8 
 #EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]TC
 http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
 
