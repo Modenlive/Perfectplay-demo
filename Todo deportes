@@ -2,11 +2,11 @@
  
  
 
-#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]BEIN ESPANHA
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]beIN España
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/574/index.m3u8
-#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]LIGA TV
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]Liga Tv
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.ono.es/img/landing/imagen_bein_liga.png",[COLOR blue]#  [/COLOR]beIN La Liga HD
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]beIN La Liga HD
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/574/index.m3u8
 #EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]beIN LaLiga Op 1
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/574/index.m3u8
@@ -18,21 +18,35 @@ http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/inde
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/566/index.m3u8
 #EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]beIN Sports Op 2
 http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/566/index.m3u8
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]beIN Sports Op 3
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/566/index.m3u8
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]beIN Sport HD
+http://playlist.onlybest.tv/en/channel/5dda7fe337281595bf436bc8592891be/566/index.m3u8
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]beIN LaLiga HD
+http://playlist.onlybest.tv/en/channel/5dda7fe337281595bf436bc8592891be/574/index.m3u8
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]LaLiga HD
+http://playlist.onlybest.tv/en/channel/5dda7fe337281595bf436bc8592891be/581/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]FOX Sports
+http://23.237.22.7/stream.get/fox_sports_arg.ts
 #EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]Fox sports premium
 http://23.237.22.7/stream.get/fox_sport_premium.ts
 #EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]TNT Sports
 http://23.237.22.7/stream.get/tntsports.ts
-#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]FOX Sports
-http://23.237.22.7/stream.get/fox_sports_arg.ts
 #EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]TyCSportHD
 http://200.89.190.163/live/live/TyCSportHD/SA_Live/TyCSportHD-audio_AACL_spa_144800_50=144800-video=3900000.m3u8
-#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]Unision deportes
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]Univision deportes
 http://51.15.222.188/live/udn/index.m3u8
 #EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]WinSports hd
 http://23.237.22.7/stream.get/winsports_hd.ts
-
+#EXTINF:0 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]Deport Tv
+https://564e2be0304b6.streamlock.net/DXTV/smil:DXTV/chunklist_w579935025_b542000_slesp.m3u8
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]Todo Deportes
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]CDN Sportmax
+http://api.new.livestream.com/accounts/15754920/events/5198653/live.m3u8 
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]TC
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
 
 ////////////////////
 
@@ -40,9 +54,6 @@ http://23.237.22.7/stream.get/winsports_hd.ts
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/index.m3u8
 #EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]Movistar MotoGP Opción
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/613/index.m3u8
-#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]beIN Sports ES HD
-http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/566/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]Movistar Fútbol
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/575/index.m3u8
 #EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]Todo Deportes TV
@@ -51,19 +62,19 @@ http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
 http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/cos-live/streamout-480p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]COS FC Panama
 http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/cosfc-live/streamout-480p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR] Telecaribe Deportes
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]Telecaribe Deportes
 https://w4.cdn.anvato.net/live/ephemeral/8JN6lx09T0YgECY5CbJZ6zuYEzVblvPG/telecaribedeporteshd2/1864k/index.m3u8
 #EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]CDO
 http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]Real Madrid TV HD
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR] Sevilla FC
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]Sevilla FC
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8
-#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR] MLB Network
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]AD SPORTS
 http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
-#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR] PX SPORTS
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]PX SPORTS
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TEST/tu1_1.m3u8
 #EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]Rugby TV
 http://fra01-edge01.itdc.ge/rtv/tracks-v1a1/index.m3u8
@@ -77,15 +88,6 @@ http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/900/inde
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
 #EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]Extreme Sports Channel
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/46/index.m3u8
-
-#EXTINF:0 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]Deport Tv
-https://564e2be0304b6.streamlock.net/DXTV/smil:DXTV/chunklist_w579935025_b542000_slesp.m3u8
-#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]Todo Deportes
-http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]CDN Sportmax
-http://api.new.livestream.com/accounts/15754920/events/5198653/live.m3u8 
-#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]TC
-http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]NOVA SPORT
 http://87.246.0.130/m3u8/webnovasport_web.m3u8
@@ -114,7 +116,7 @@ http://aovivo.futeboltv.com:8081/live/17/chunks.m3u8
 http://aovivo.futeboltv.com:8081/live/18/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]Brasil Jogos Ao Vivo 9
 http://aovivo.futeboltv.com:8081/live/19/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR] Brasil Jogos Ao Vivo 10
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]Brasil Jogos Ao Vivo 10
 http://aovivo.futeboltv.com:8081/live/20/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]Arena Sport 1 high 
@@ -207,6 +209,7 @@ http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/471/inde
 http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/472/index.m3u8
 #EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]Sky Sport Austria HD
 http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/475/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]Rai Sport
 http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/528/index.m3u8
 #EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]beIN Sports España HD
@@ -245,12 +248,7 @@ http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/891/inde
 http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/895/index.m3u8
 #EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]Eurosport 1 Polska
 http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/896/index.m3u8
-#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]beIN SPORTS HD
-http://playlist.onlybest.tv/en/channel/5dda7fe337281595bf436bc8592891be/566/index.m3u8
-#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]beIN La Liga HD
-http://playlist.onlybest.tv/en/channel/5dda7fe337281595bf436bc8592891be/574/index.m3u8
-#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]LaLiga HD
-http://playlist.onlybest.tv/en/channel/5dda7fe337281595bf436bc8592891be/581/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]Movistar Futbol HD
 http://playlist.onlybest.tv/en/channel/5dda7fe337281595bf436bc8592891be/575/index.m3u8
 
@@ -321,9 +319,9 @@ http://31.146.176.210:8080/CHANNEL634/BITRATE0/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]CCTV-5+
 http://183.251.61.207/PLTV/88888888/224/3221225939/index.m3u8
-#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR] CCTV-5+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]CCTV-5+
 http://183.252.176.10/PLTV/88888888/224/3221225939/index.m3u8
-#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR] CCTV-5+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]CCTV-5+
 http://183.251.61.207/PLTV/88888888/224/3221225915/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]MACAU SPORTS
@@ -344,27 +342,27 @@ http://46.40.5.99:8000/arena_4_high
 http://193.106.4.244:20000/Apple/Viasat_Sport_East/.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR] RU ????! ?????? 1
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]RU ????! ?????? 1
 http://persik.by/stream/3903/293564/346.m3u8
-#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR] RU ????!
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]RU ????!
 http://persik.by/stream/3903/293564/276.m3u8
-#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR] RU ??? ??????
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]RU ??? ??????
 http://persik.by/stream/3903/293564/10264.m3u8
-#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR] RU ????! ?????? 1 HD
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]RU ????! ?????? 1 HD
 http://persik.by/stream/3903/293564/10266.m3u8
-#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR] RU ????! ?????? 2 HD
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]RU ????! ?????? 2 HD
 http://persik.by/stream/3903/293564/10267.m3u8
-#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR] RU ????! ?????? 3 HD
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]RU ????! ?????? 3 HD
 http://persik.by/stream/3903/293564/10268.m3u8
-#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR] RU ????! ???????
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]RU ????! ???????
 http://persik.by/stream/3903/293564/10269.m3u8
-#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR] RU ????! ????
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]RU ????! ????
 http://persik.by/stream/3903/293564/10270.m3u8
-#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR] RU ????! ??? ?????
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]RU ????! ??? ?????
 http://persik.by/stream/3903/293564/10271.m3u8
-#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR] RU ????! ?????? 2
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]RU ????! ?????? 2
 http://persik.by/stream/3903/293564/10217.m3u8
-#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR] RU ????! ?????? 3
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]RU ????! ?????? 3
 http://persik.by/stream/3903/293564/10218.m3u8
 
 
@@ -459,8 +457,10 @@ http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 #EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]Real Madrid TV in English
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_2_av-p.m3u8
- #EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]SEVILLA TV
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]SEVILLA TV
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]HIPODROMO
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]Pac 12 Network
 http://p12n-lh.akamaihd.net/i/network_delivery@428818/master.m3u8
@@ -479,5 +479,4 @@ http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
 #EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]Pac 12 Washington
 http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://s26.postimg.org/wedzo9d7d/Deportes.jpg",[COLOR blue]#  [/COLOR]HIPODROMO
-http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+
