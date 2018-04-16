@@ -1,11 +1,11 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://s26.postimg.org/x20extetl/ghfffx.jpg",[COLOR blue]#  [/COLOR]Sextreme
+EXTINF:-1 tvg-logo="https://s26.postimg.org/x20extetl/ghfffx.jpg",[COLOR blue]#  [/COLOR]Sextreme
 http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/810.ts
-#EXTINF:-1 tvg-logo="https://s26.postimg.org/x20extetl/ghfffx.jpg",[COLOR blue]#  [/COLOR]Sexy Hot
+EXTINF:-1 tvg-logo="https://s26.postimg.org/x20extetl/ghfffx.jpg",[COLOR blue]#  [/COLOR]Sexy Hot
 http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/809.ts
-#EXTINF:-1 tvg-logo="https://s26.postimg.org/x20extetl/ghfffx.jpg",[COLOR blue]#  [/COLOR]Playboy TV
+EXTINF:-1 tvg-logo="https://s26.postimg.org/x20extetl/ghfffx.jpg",[COLOR blue]#  [/COLOR]Playboy TV
 http://pandaxtream.dyndns.tv:25461/live/pANDAfREE/tn4H27Op9Q/824.ts
 
 #EXTINF:-1 tvg-logo="https://s26.postimg.org/x20extetl/ghfffx.jpg" group-title="Adultos",[COLOR blue]#  [/COLOR]Playboy
